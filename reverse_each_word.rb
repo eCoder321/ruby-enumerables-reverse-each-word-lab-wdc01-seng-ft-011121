@@ -6,15 +6,9 @@ def reverse_each_word(string)
     i.reverse
   }.join(" ")
   
-  
-  
-  #string = ""
-  
  # new_array = []
 #  array.each {
 #    |i|
-    #string += i.split("").reverse!.join
-    #string += " "
     
    # new_array << i.reverse
 #  }
@@ -24,6 +18,12 @@ def reverse_each_word(string)
   
  # new_array.join(" ")
 end
+
+#string = ""
+#  array.each {
+#    |i|
+    #string += i.split("").reverse!.join
+    #string += " "
   
 #p reverse_each_word("hello, i say")
 
